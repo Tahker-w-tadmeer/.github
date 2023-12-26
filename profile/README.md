@@ -1,4 +1,4 @@
-# Tahkeer w Tadmeer github organization
+# Tahkeer w Tadmeer GitHub organization
 
 Welcome to our GitHub organization!
 We are students at Alexandria University Faculty of Engineering - Computer and Communications engineering (CCE).
@@ -55,7 +55,7 @@ This GitHub organization is dedicated to fostering collaboration, sharing knowle
 - **Assignment 4**: In Progress
 
 #### Operating Systems
-- **[Mini Shell](https://github.com/Tahker-w-tadmeer/machine_learning_assignment_1)**
+- **[Mini Shell](https://github.com/Tahker-w-tadmeer/mini-shell)**
 
 #### Analog
 - **[Final project - Eric](https://github.com/Tahker-w-tadmeer/final-project-analogue)**
