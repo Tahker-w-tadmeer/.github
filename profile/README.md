@@ -1,7 +1,7 @@
 # Tahkeer w Tadmeer github organization
 
 Welcome to our GitHub organization!
-We are students at Alexandria University Faculity of Engineering - Computer and Comunications engineering.
+We are students at Alexandria University Faculty of Engineering - Computer and Communications engineering (CCE).
 This repository houses various projects and materials related to our courses and terms.
 We wanted to provide a guide to help you navigate projects you may have during your time as a student in the university.
 
@@ -27,9 +27,12 @@ This GitHub organization is dedicated to fostering collaboration, sharing knowle
 - **[Mini Paint](https://github.com/Fadi-S/university-mini-paint)**
 - **[Circus of Plates](https://github.com/Tahker-w-tadmeer/circus-of-plates)**
 
-#### Logic 1
+#### Logic 2
 - **[Smart Home](https://github.com/Fadi-S/smart-home)**
 - **[Smart Home App](https://github.com/Fadi-S/smart-home-app)**
+
+#### Signals and Systems
+- **[Final Project Matlab](https://github.com/Peter-Anton/matlab-final-project.git)**
 
 ### Term 6
 #### Data Structure 2
@@ -41,9 +44,12 @@ This GitHub organization is dedicated to fostering collaboration, sharing knowle
 - **[GUI Benchmark](https://github.com/Tahker-w-tadmeer/gui-benchmark)**
 - **[Matrix blocking](https://github.com/Tahker-w-tadmeer/matrix-mult-blocking)**
 
+#### DSP
+- **[Final Project - Mixer Equalixer](https://github.com/Peter-Anton/mixer-equalizer-matlab.git)**
+
 ### Term 7
 #### Machine Learning
-- **[Assignment 1 - Intoduction KNN](https://github.com/Tahker-w-tadmeer/machine_learning_assignment_1)**
+- **[Assignment 1 - Introduction KNN](https://github.com/Tahker-w-tadmeer/machine_learning_assignment_1)**
 - **[Assignment 2 - Neural networks](https://github.com/Tahker-w-tadmeer/ml_neural_network)**
 - **[Assignment 3 - Feature Engineering](https://github.com/Tahker-w-tadmeer/ml3)**
 - **Assignment 4**: In Progress
