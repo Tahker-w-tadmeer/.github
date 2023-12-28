@@ -49,10 +49,10 @@ This GitHub organization is dedicated to fostering collaboration, sharing knowle
 
 ### Term 7
 #### Machine Learning
-- **[Assignment 1 - Introduction KNN](https://github.com/Tahker-w-tadmeer/machine_learning_assignment_1)**
-- **[Assignment 2 - Neural networks](https://github.com/Tahker-w-tadmeer/ml_neural_network)**
-- **[Assignment 3 - Feature Engineering](https://github.com/Tahker-w-tadmeer/ml3)**
-- **Assignment 4**: In Progress
+- **[Assignment 1 - Introduction KNN House prices](https://github.com/Tahker-w-tadmeer/machine_learning_assignment_1)**
+- **[Assignment 2 - Neural networks Numbers](https://github.com/Tahker-w-tadmeer/ml_neural_network)**
+- **[Assignment 3 - Smoking](https://github.com/Tahker-w-tadmeer/ml3)**
+- **[Assignment 4 - Breast Cancer](https://github.com/Tahker-w-tadmeer/ml4)**
 
 #### Operating Systems
 - **[Mini Shell](https://github.com/Tahker-w-tadmeer/mini-shell)**
