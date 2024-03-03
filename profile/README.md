@@ -53,6 +53,7 @@ This GitHub organization is dedicated to fostering collaboration, sharing knowle
 - **[Assignment 2 - Neural networks Numbers](https://github.com/Tahker-w-tadmeer/ml_neural_network)**
 - **[Assignment 3 - Smoking](https://github.com/Tahker-w-tadmeer/ml3)**
 - **[Assignment 4 - Breast Cancer](https://github.com/Tahker-w-tadmeer/ml4)**
+- **[all Assignement in one file with other version of code if needed](https://github.com/Tahker-w-tadmeer/intro_to_ml.git)**
 
 #### Operating Systems
 - **[Mini Shell](https://github.com/Tahker-w-tadmeer/mini-shell)**
