@@ -1,7 +1,7 @@
 # Tahkeer w Tadmeer GitHub organization
 
 Welcome to our GitHub organization!
-We are students at Alexandria University Faculty of Engineering - Computer and Communications engineering (CCE).
+We are students at Alexandria University Faculty of Engineering - Computer and Communications Engineering (CCE).
 This repository houses various projects and materials related to our courses and terms.
 We wanted to provide a guide to help you navigate projects you may have during your time as a student in the university.
 
@@ -64,6 +64,10 @@ This GitHub organization is dedicated to fostering collaboration, sharing knowle
 - **[Final project - Car Rental](https://github.com/Tahker-w-tadmeer/car-rental)**
 
 Please ensure to adhere to ethical guidelines and university policies while using these repositories. This organization is meant to assist in learning and sharing knowledge. Remember, it's important to contribute responsibly and not use these resources to cheat or violate academic integrity.
+
+### Term 8
+#### Deep Learning
+- **[Assignment 1 - Orbit Prediction](https://github.com/Fadi-S/orbit_prediction_nn)**
 
 ## Disclaimer
 
