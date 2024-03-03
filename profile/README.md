@@ -63,14 +63,13 @@ This GitHub organization is dedicated to fostering collaboration, sharing knowle
 #### Database
 - **[Final project - Car Rental](https://github.com/Tahker-w-tadmeer/car-rental)**
 
-Please ensure to adhere to ethical guidelines and university policies while using these repositories. This organization is meant to assist in learning and sharing knowledge. Remember, it's important to contribute responsibly and not use these resources to cheat or violate academic integrity.
-
 ### Term 8
 #### Deep Learning
 - **[Assignment 1 - Orbit Prediction](https://github.com/Fadi-S/orbit_prediction_nn)**
 
-## Disclaimer
+Please ensure to adhere to ethical guidelines and university policies while using these repositories. This organization is meant to assist in learning and sharing knowledge. Remember, it's important to contribute responsibly and not use these resources to cheat or violate academic integrity.
 
+## Disclaimer
 **Note:** This repository is intended as a helpful guide and resource for educational purposes only. It should not be used to cheat, plagiarize, or violate any academic integrity policies of our institution. Users are expected to use these materials responsibly and uphold ethical standards at all times.
 
 Feel free to contribute, suggest improvements, or create issues to discuss any aspect of this repository.
